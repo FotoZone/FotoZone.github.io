@@ -1,31 +1,31 @@
 {
-  "interstitialInterval": 70000,
+  "interstitialInterval": 60000,
   "interstitialRequestCount": 3,
-  "googleAppOpenInterval": 70000,
+  "googleAppOpenInterval": 60000,
   "googleAppOpenRequestCount": 3,
 
   "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": true,
-  "isMetaInterstitialOn": false,
+  "isMetaInterstitialOn": true,
 
-  "isGoogleNativeOn": false,
-  "isApplovinNativeOn": false,
-  "isMetaNativeOn": false,
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": true,
+  "isMetaNativeOn": true,
 
-  "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": false,
-  "isMetaNativeBannerOn": false,
+  "isGoogleNativeBannerOn": true,
+  "isApplovinNativeBannerOn": true,
+  "isMetaNativeBannerOn": true,
 
   "isGoogleBannerOn": true,
-  "isApplovinBannerOn": false,
-  "isMetaBannerOn": false,
+  "isApplovinBannerOn": true,
+  "isMetaBannerOn": true,
 
   "isGoogleAppOpenOn": true,
 
-  "googleInterstitialId": "ca-app-pub-6460060479768856/7653083482",
-  "googleBannerId": "ca-app-pub-6460060479768856/5473078051",
-  "googleNativeId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Native",
-  "googleAppOpenId": "ca-app-pub-6460060479768856/5352006167",
+  "googleInterstitialId": "/6499/example/interstitial",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "/6499/example/app-open",
 
   "applovinInterstitialId": "55a122766634b628",
   "applovinBannerId": "5e558020cdb2db0b",
@@ -35,9 +35,9 @@
   "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
   "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-  "showUpdate": false,
+  "showUpdate": true,
   "forceUpdateOn": false,
-  "updatePercentage": 1,
+  "updatePercentage": 100,
   "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
   "updateLink": "gallery.photogallery.album.editor",
   "updateBtnTxt": "Install",
