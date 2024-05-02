@@ -4,7 +4,7 @@
   "googleAppOpenInterval": 60000,
   "googleAppOpenRequestCount": 3,
 
-  "isGoogleInterstitialOn": false,
+  "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
@@ -16,11 +16,11 @@
   "isApplovinNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
-  "isGoogleBannerOn": false,
+  "isGoogleBannerOn": true,
   "isApplovinBannerOn": false,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": false,
+  "isGoogleAppOpenOn": true,
 
   "googleInterstitialId": "/6499/example/interstitial",
   "googleBannerId": "/6499/example/banner",
