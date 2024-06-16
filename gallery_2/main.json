@@ -4,20 +4,20 @@
   "googleAppOpenInterval": 70000,
   "googleAppOpenRequestCount": 1,
 
-  "isGoogleInterstitialOn": true,
+  "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": false,
 
-  "isGoogleNativeOn": true,
-  "isApplovinNativeOn": true,
+  "isGoogleNativeOn": false,
+  "isApplovinNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
 
-  "isGoogleBanner1On": true,
-  "isGoogleBanner2On": true,
+  "isGoogleBanner1On": false,
+  "isGoogleBanner2On": false,
   "isApplovinBannerOn": false,
 
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": false,
 
   "googleInterstitialId": "ca-app-pub-6460060479768856/7740289336",
   "googleBannerId1": "ca-app-pub-6460060479768856/2300260395",
